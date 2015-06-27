@@ -79,7 +79,7 @@ public class TeslaSettingsPage extends SetupPage {
 
     @Override
     public int getTitleResId() {
-        return R.string.setup_personalization;
+        return R.string.setup_services;
     }
 
     private static void writeDisableNavkeysOption(Context context, boolean enabled) {
